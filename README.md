@@ -1,5 +1,5 @@
 # pandora-wechat
-通过 pandora 将ChatGPT接入微信
+无需翻墙，即可通过 pandora 将ChatGPT接入微信
 
 通过 pandora 访问ChatGPT，呼吸更加顺畅了~
 
