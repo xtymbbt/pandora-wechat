@@ -5,6 +5,8 @@
 
 本项目通过 https://github.com/eatmoreapple/openwechat 开源项目提供微信聊天回复支持。暂不支持语音处理。
 
+本项目通过 https://github.com/pengzhile/pandora 开源项目提供ChatGPT访问支持。
+
 本项目由GitHub Copilot提供代码编写支持。
 # 接入方式：
 首先，前往 https://github.com/pengzhile/pandora 项目，按照说明，将pandora部署到服务器上（部署在本地PC也可以，推荐docker部署方式，非常方便）
