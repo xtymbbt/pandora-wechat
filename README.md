@@ -9,7 +9,9 @@
 # 接入方式：
 首先，前往 https://github.com/pengzhile/pandora 项目，按照说明，将pandora部署到服务器上（部署在本地PC也可以，推荐docker部署方式，非常方便）
 
-然后，将本项目下载到本地，无需任何依赖环境，直接运行./pandora-wechat即可
+然后，从本项目的发行版(Release)中下载对应系统的可执行程序，并将其重命名为 pandora-wechat。
+
+无需任何依赖环境，直接运行./pandora-wechat即可
 
 之后，该程序会在控制台输出网页链接，将该链接复制到浏览器，通过微信扫描，确认登录即可。
 # 高级：
