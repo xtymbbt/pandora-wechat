@@ -9,7 +9,7 @@
 
 本项目由GitHub Copilot提供代码编写支持。
 # 接入方式：
-首先，前往 https://github.com/pengzhile/pandora 项目，按照说明，将pandora部署到服务器上（部署在本地PC也可以，推荐docker部署方式，非常方便）
+首先，前往 https://github.com/pengzhile/pandora 项目，按照说明，将pandora部署到服务器上（部署在本地PC也可以，推荐docker部署方式，非常方便）[请注意：目前所支持的pandora版本为1.0.10版本，高版本pandora可能出现兼容性问题。]
 
 然后，从本项目的发行版(Release)中下载对应系统的可执行程序，并将其重命名为 pandora-wechat。
 
